@@ -1,4 +1,8 @@
-## Deploy JSON Server to Vercel
+# About
+
+json-server used by the codeflix-client project. This project contains an API with several movies
+
+# Deploy JSON Server to Vercel
 
 A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
 
